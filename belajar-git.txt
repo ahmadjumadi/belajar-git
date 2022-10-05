@@ -1,3 +1,5 @@
 Ini dokumen pertama saya dalam belajar git
 
 Ini tambahan hasil edit saya
+
+ini kodingan saya untuk menambahakan bla bla bla
